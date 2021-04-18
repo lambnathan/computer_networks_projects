@@ -1,0 +1,4 @@
+
+
+I had to add -lboost_system to the end of the libaries list in the makefile in order to get the program to compile on my machine.
+The last time I tested, it still works on Isengard. 

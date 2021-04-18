@@ -1,0 +1,80 @@
+1,79d0
+< ethernet: 
+< 	Total Ethernet = 622
+< 	Min Ethernet = 60
+< 	Max Ethernet = 60
+< 	Average Ethernet = 60
+< 
+< otherLink: 
+< 	Total OtherLink = 0
+< 	Min OtherLink = 0
+< 	Max OtherLink = 0
+< 	Average OtherLink = 0
+< 
+< ARP: 
+< 	Total ARP = 622
+< 	Min ARP = 60
+< 	Max ARP = 60
+< 	Average ARP = 60
+< 
+< IPv4: 
+< 	Total IPv4 = 0
+< 	Min IPv4 = 0
+< 	Max IPv4 = 0
+< 	Average IPv4 = 0
+< 
+< IPv6: 
+< 	Total IPv6 = 0
+< 	Min IPv6 = 0
+< 	Max IPv6 = 0
+< 	Average IPv6 = 0
+< 
+< otherNetwork: 
+< 	Total OtherNetwork = 0
+< 	Min OtherNetwork = 0
+< 	Max OtherNetwork = 0
+< 	Average OtherNetwork = 0
+< 
+< TCP: 
+< 	Total TCP = 0
+< 	Min TCP = 0
+< 	Max TCP = 0
+< 	Average TCP = 0
+< 
+< UDP: 
+< 	Total UDP = 0
+< 	Min UDP = 0
+< 	Max UDP = 0
+< 	Average UDP = 0
+< 
+< ICMP: 
+< 	Total ICMP = 0
+< 	Min ICMP = 0
+< 	Max ICMP = 0
+< 	Average ICMP = 0
+< 
+< otherTransport: 
+< 	Total OtherTransport = 0
+< 	Min OtherTransport = 0
+< 	Max OtherTransport = 0
+< 	Average OtherTransport = 0
+< 
+< Counts: 
+< 	Unique srcMac = 1
+< 	Unique dstMac = 1
+< 	Unique srcIPv4 = 0
+< 	Unique dstIPv4 = 0
+< 	Unique srcUDP = 0
+< 	Unique dstUDP = 0
+< 	Unique srcTCP = 0
+< 	Unique dstTCP =  0
+< 	synCount = 0
+< 	finCount = 0
+< 	totalPacketCount = 622
+< 
+< Unique Source Mac Addresses
+< 	0:7:d:af:f4:54
+< 
+< Unique Destination Mac Addresses
+< 	ff:ff:ff:ff:ff:ff
+< 
